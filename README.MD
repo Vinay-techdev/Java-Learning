@@ -94,7 +94,7 @@ Java-Learning/
 
 ## 🧑‍💻 Author
 
-👋 Hi, I'm **Vinnu** – Full-Stack Developer & Java Learner.
+👋 Hi, I'm **Vinay** – Full-Stack Developer & Java Learner.
 This repo is my personal revision log to get better at **DSA** and **Web Development**
 Feel free to fork ⭐ and practice along!
 
@@ -108,5 +108,3 @@ Feel free to fork ⭐ and practice along!
 ---
 
 ### ⭐ If this repo helps you, don’t forget to star it!
-
----
